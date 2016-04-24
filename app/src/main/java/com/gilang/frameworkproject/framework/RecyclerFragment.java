@@ -12,7 +12,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.DecelerateInterpolator;
 
-import com.gilang.frameworkproject.R;
+
+import com.gilang.jelajah.R;
 
 import java.util.List;
 
